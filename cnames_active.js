@@ -3781,6 +3781,7 @@ var cnames_active = {
   "webpack-stats": "v-webpack.netlify.app",
   "webpeer": "nuzulul.github.io/webpeerjs",
   "websheet": "pierreavn.github.io/websheetjs",
+  "webtools": "ivan155off.github.io/WebTools-Utility",
   "webview": "cname.vercel-dns.com", // noCF
   "wechatpay": "thenorthmemory.github.io/wechatpay.js.org",
   "wechaty": "wechaty-js-org.pages.dev",
@@ -3797,6 +3798,7 @@ var cnames_active = {
   "which-node": "tobysmith568.github.io/which-node-js",
   "whistle": "whistle-lang.github.io/website",
   "whiteboard": "yhozen.github.io/whiteboard",
+  "webtools": "ivan155off.github.io/WebTools-Utility",
   "whoasked": "mathdebate09.github.io/who-asked",
   "wi": "rstee.serv00.net",
   "wice": "yulioaj290.github.io/wice.js",
